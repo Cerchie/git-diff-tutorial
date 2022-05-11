@@ -13,4 +13,4 @@ Step 5. run `git add .`, then `git commit -m "add message"`
 Step 6. run `git diff`, and see the differences between the main branch and your own!
 ______________
 
-Message: ''
+Message: 'Hello Lucia'
