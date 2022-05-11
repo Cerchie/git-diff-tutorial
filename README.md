@@ -8,7 +8,7 @@ Step 3. run `git checkout -b learning-git-diff`
 
 Step 4. Enter a message to yourself at line 16 of this file.
 
-Step 5. Save.
+Step 5. Save. (Note: don't `git add` or `git commit`, since `git diff` only picks up on saved and un-added or -committed changes.)
 
 Step 6. run `git diff`, and see the differences between the main branch and your own!
 ______________
