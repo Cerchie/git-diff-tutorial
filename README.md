@@ -1,8 +1,8 @@
 # git diff tutorial
 
-Step 1. run `git clone THIS_REPO`
+Step 1. run `git clone https://github.com/Cerchie/git-diff-tutorial.git`
 
-Step 2. `cd git-diff`, or open your 'git-diff' folder if you're on windows
+Step 2. `cd git-diff-tutorial`, or open your 'git-diff-tutorial' folder if you're on windows
 
 Step 3. run `git checkout -b learning-git-diff`
 
